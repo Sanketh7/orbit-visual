@@ -9,6 +9,15 @@ Draws an orbital pattern based on values provided (the user is prompted when the
 
 
 
+## Technologies Used
+
+| Name   | Description                                                  |
+| ------ | ------------------------------------------------------------ |
+| Python | A scripting language. The project is written in this.        |
+| Turtle | A graphics library that uses Tkinter. Used to draw the orbits incrementally. |
+
+
+
 ## Usage
 
 1. Make sure you have Python installed (Python 2.x and Python 3.x both work)
